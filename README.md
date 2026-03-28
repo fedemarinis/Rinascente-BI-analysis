@@ -106,9 +106,9 @@ This structure ensures:
 
 ### Main Dashboard Views
 
-![Dashboard](Dashboard images, ER diagram and tables/Rinascente store Milano dashboard – Bookmark1.png)
+![Dashboard](images/rinascente-dashboard-bookmark1.png)
 
-![Dashboard](Dashboard images, ER diagram and tables/Rinascente store Milano dashboard – Bookmark2.png)
+![Dashboard](images/rinascente-dashboard-bookmark2.png)
 
 The Power BI dashboard provides a comprehensive view of:
 
@@ -128,7 +128,7 @@ The Power BI dashboard provides a comprehensive view of:
 
 ## 🧩 ER Diagram
 
-![Dashboard](Dashboard images, ER diagram and tables/ER diagram.png)
+![Dashboard](images/ER-diagram.png)
 
 The ER diagram illustrates the relationships between fact and dimension tables, supporting a clear and scalable analytical structure.
 
