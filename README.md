@@ -54,7 +54,7 @@ This approach ensures consistency between raw data, processed data, and final in
 ```text
 .
 ├── CSVs tables star schema/
-├── Dashboard images, ER diagram and tables/
+├── Images/
 ├── Data cleaning notebook & dataset files
 ├── SQL scripts for database creation
 └── README.md
@@ -65,7 +65,7 @@ This approach ensures consistency between raw data, processed data, and final in
 * **CSVs tables star schema/**
   Contains the final **dimension and fact tables** exported from PostgreSQL after building the star schema. These represent the cleaned and structured dataset used for analysis and reporting.
 
-* **Dashboard images, ER diagram and tables/**
+* **Images/**
   Includes:
 
   * ER diagram of the database model
