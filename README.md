@@ -128,7 +128,7 @@ The Power BI dashboard provides a comprehensive view of:
 
 ## 🧩 ER Diagram
 
-![Dashboard](Images/ER-diagram.png)
+![Dashboard](Images/ER diagram.png)
 
 The ER diagram illustrates the relationships between fact and dimension tables, supporting a clear and scalable analytical structure.
 
