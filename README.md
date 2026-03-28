@@ -1,4 +1,3 @@
-````markdown
 # 🏬 Rinascente Milano — Customer Behavior & Loyalty Program Analysis  
 **A Business Intelligence project evaluating retail performance through data processing, modeling, and visualization**
 
